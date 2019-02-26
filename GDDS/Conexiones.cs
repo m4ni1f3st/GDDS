@@ -20,7 +20,7 @@ namespace GDDS
             var applicationSettings = ConfigurationManager.GetSection("connectionStrings")
                as NameValueCollection;
 
-            if (applicationSettings.Count = = 0)
+            if (applicationSettings.Count == 0)
             {
                 Console.WriteLine("Application Settings are not defined");
             }

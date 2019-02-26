@@ -14,3 +14,12 @@ C:\Users\dfuentes\Desktop\Dfuentes\Desarrollo\GDDS\GDDS\bin\Debug\GDDS.pdb
 C:\Users\dfuentes\Desktop\Dfuentes\Desarrollo\GDDS\GDDS\obj\Debug\GDDS.csprojResolveAssemblyReference.cache
 C:\Users\dfuentes\Desktop\Dfuentes\Desarrollo\GDDS\GDDS\obj\Debug\GDDS.ProjectInstaller.resources
 C:\Users\dfuentes\Desktop\Dfuentes\Desarrollo\GDDS\GDDS\obj\Debug\GDDS.csproj.GenerateResource.Cache
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.csprojAssemblyReference.cache
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.ProjectInstaller.resources
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.csproj.GenerateResource.cache
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.csproj.CoreCompileInputs.cache
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.exe
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\obj\Debug\GDDS.pdb
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\bin\Debug\GDDS.exe.config
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\bin\Debug\GDDS.exe
+C:\Users\dfuentes\Documents\GitHub\GDDS\GDDS\bin\Debug\GDDS.pdb

@@ -28,7 +28,7 @@ namespace GDDS
             {
                 escrito.Write("\r\n" + fecha_completa + cadena.ToString());
             }
-            Console.WriteLine(cadena.ToString());
+            Console.WriteLine("Lo que se está grabando: \ncadena.ToString()");
             escrito.Flush();
             escrito.Close();
         }
