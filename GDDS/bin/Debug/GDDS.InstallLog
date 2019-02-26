@@ -1,0 +1,43 @@
+﻿Instalando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Instalando el servicio Service1...
+El servicio Service1 se ha instalado correctamente.
+Creando el origen de EventLog Service1 en el registro Application...
+Confirmando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Desinstalando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Quitando el origen de EventLog Service1.
+Se está quitando el servicio Service1 del sistema...
+El servicio Service1 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service1.
+Instalando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Instalando el servicio GDDS_envio...
+El servicio GDDS_envio se ha instalado correctamente.
+Creando el origen de EventLog GDDS_envio en el registro Application...
+Confirmando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Desinstalando ensamblado 'C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.InstallLog
+   assemblypath = C:\Users\dfuentes\Desktop\Dfuentes\GDDS\GDDS\bin\Debug\GDDS.exe
+Quitando el origen de EventLog GDDS_envio.
+Se está quitando el servicio GDDS_envio del sistema...
+El servicio GDDS_envio se ha quitado correctamente del sistema.
